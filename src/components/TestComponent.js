@@ -3,7 +3,7 @@ import React from 'react';
 const TestComponent = () => {
     return (
         <div>
-            THIS IS A TEST COMPONENT.
+            TEST COMPONENT HAS BEEN MODIFIED.
         </div>
     );
 };
