@@ -8,7 +8,7 @@ public class SecondTestController {
 
     @GetMapping("/hello")
     public void hello() {
-        System.out.println("HELLO WORLD");
+        System.out.println("HELLO INTEGRATION");
     }
 
 }
